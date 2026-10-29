@@ -5,6 +5,7 @@ Personal [xbar](https://github.com/matryer/xbar) plugins for the macOS menu bar.
 | Plugin | What it does |
 |--------|--------------|
 | [septaPlugin](septaPlugin/) | Next SEPTA Regional Rail trains between two stations, with live delays |
+| [amtrakPlugin](amtrakPlugin/) | Remaining Amtrak trains today between two stations, with live delays |
 
 ## Using a plugin
 

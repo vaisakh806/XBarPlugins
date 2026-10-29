@@ -3,10 +3,11 @@
 # <xbar.title>SEPTA Next Train</xbar.title>
 # <xbar.version>v1.0</xbar.version>
 # <xbar.author>vaisakh032</xbar.author>
-# <xbar.author.github>vaisakh032</xbar.author.github>
+# <xbar.author.github>vaisakh806</xbar.author.github>
 # <xbar.desc>Shows the next SEPTA Regional Rail trains between two stations, with live delays.</xbar.desc>
 # <xbar.dependencies>jq,curl</xbar.dependencies>
-# <xbar.abouturl>https://github.com/vaisakh032/XBarPlugins</xbar.abouturl>
+# <xbar.abouturl>https://github.com/vaisakh806/XBarPlugins</xbar.abouturl>
+# <xbar.image>https://raw.githubusercontent.com/vaisakh806/XBarPlugins/main/septaPlugin/screenshot.png</xbar.image>
 #
 # <xbar.var>string(VAR_FROM="Suburban Station"): Departure station (SEPTA name).</xbar.var>
 # <xbar.var>string(VAR_TO="Devon"): Arrival station (SEPTA name).</xbar.var>

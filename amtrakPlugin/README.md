@@ -1,5 +1,7 @@
 # Amtrak Next Train
 
+![Screenshot](screenshot.png)
+
 An xbar plugin that shows today's remaining [Amtrak](https://www.amtrak.com) trains between two stations in your menu bar.
 
 - Menu bar: `🚅 11:00AM` — green when on time, red with `(+6)` when delayed.

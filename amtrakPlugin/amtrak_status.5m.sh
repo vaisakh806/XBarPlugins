@@ -3,10 +3,11 @@
 # <xbar.title>Amtrak Next Train</xbar.title>
 # <xbar.version>v1.0</xbar.version>
 # <xbar.author>vaisakh032</xbar.author>
-# <xbar.author.github>vaisakh032</xbar.author.github>
-# <xbar.desc>Shows today's remaining Amtrak trains between two stations, with live delays (via the unofficial Amtraker API).</xbar.desc>
+# <xbar.author.github>vaisakh806</xbar.author.github>
+# <xbar.desc>Shows today's remaining Amtrak trains between two stations, with live delays (relies on the unofficial, community-run Amtraker API, not an official Amtrak service).</xbar.desc>
 # <xbar.dependencies>jq,curl</xbar.dependencies>
-# <xbar.abouturl>https://github.com/vaisakh032/XBarPlugins</xbar.abouturl>
+# <xbar.abouturl>https://github.com/vaisakh806/XBarPlugins</xbar.abouturl>
+# <xbar.image>https://raw.githubusercontent.com/vaisakh806/XBarPlugins/main/amtrakPlugin/screenshot.png</xbar.image>
 #
 # <xbar.var>string(VAR_FROM="PHL"): Departure station code (Amtrak 3-letter code).</xbar.var>
 # <xbar.var>string(VAR_TO="PAO"): Arrival station code (Amtrak 3-letter code).</xbar.var>

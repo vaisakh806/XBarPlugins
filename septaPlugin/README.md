@@ -1,5 +1,7 @@
 # SEPTA Next Train
 
+![Screenshot](screenshot.png)
+
 An xbar plugin that shows the next [SEPTA](https://www.septa.org) Regional Rail train between two stations in your menu bar.
 
 - Menu bar: `🚆 8:05AM` — green when on time, red with `(+5)` when delayed.

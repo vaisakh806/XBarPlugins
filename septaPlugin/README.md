@@ -29,7 +29,7 @@ Click the plugin in the menu bar → *Open in xbar → Settings* (or edit the va
 | `VAR_TO` | `Devon` | Arrival station |
 | `VAR_COUNT` | `3` | Trains to list |
 
-Station names must match SEPTA's spelling (e.g. `Market East`, `30th Street Station`, `Ambler`). Find the exact names on SEPTA's [stations page](https://www.septa.org/stations/).
+Station names must match SEPTA's spelling (e.g. `Market East`, `30th Street Station`, `Ambler`). Find the exact names on SEPTA's [Regional Rail station list](https://www3.septa.org/VIRegionalRail.html).
 
 ## How it works
 
